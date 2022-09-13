@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "nombre": "Fuerza Magnética",
+    "img1": "../img/experimentos-img/FuerzaMagnetica1.jpeg",
+    "eslogan": "",
+    "descripcion": "Este es un experimento en el cual se puede expresar el funcionamiento de la fuerza magnética de un imán de forma muy visual e interesante."
+  },
+  {
+    "id": 2,
+    "nombre": "Elevador Hidráulico",
+    "img1": "../img/experimentos-img/ElevadorHidraulicouno.jpeg",
+    "eslogan": "",
+    "descripcion": "Para fundamentar la compresión de la transmisión de fuerzas de gran magnitud en diferentes aplicaciones de la vida cotidiana empleando un fluido. Su empleabilidad en el diseño y construcción de prototipos de uso pedagógico no es usualmente adaptada en las clases magistrales sobre el tema de estática de fluidos y es por eso que se escoge ese tópico."
+  },
+  {
+    "id": 3,
+    "nombre": "Parque Eólico",
+    "img1": "../img/experimentos-img/ParqueEolico1.jpeg",
+    "eslogan": "",
+    "descripcion": "El parque eólico se utiliza para generar electricidad, lo que se consiguie mediante aerogeneradores y medios similares. Esta fuente de energía generalmente tiene un menor impacto ambiental que otras fuentes de energía."
+  },
+  {
+    "id": 4,
+    "nombre": "Microscopio casero",
+    "img1": "../img/experimentos-img/MicroscopioCasero1.jpeg",
+    "eslogan": "",
+    "descripcion": "El microscopio casero nos permite visualizar lo que no podemos ver a simple vista y es muy fácil de realizarlo con materiales caseros."
+  },
+  {
+    "id": 5,
+    "nombre": "La bobina de Tesla",
+    "img1": "../img/experimentos-img/BobinaTesla1.jpeg",
+    "eslogan": "",
+    "descripcion": "La bobina de tesla es un generador electromagnético que produce descargas de alta tensión y de elevadas frecuencias con efectos perceptibles tales como su capacidad para ionizar el aire o gas a una distancia definida de ésta de forma que puede hacer que se encienda una bombilla de bajo consumo."
+  },
+  {
+    "id": 6,
+    "nombre": "Puente elevadizo",
+    "img1": "../img/experimentos-img/PuenteElevadizo1.jpeg",
+    "eslogan": "",
+    "descripcion": "El puente elevadizo con un sistema hidráulico, Consta de dos alas divididas en el centro, con un encaje perfecto, funciona con la presión de las jeringas que con el traspaso del líquido que tienen, su fuerza y velocidad elevan o bajan cada ala del puente, separándolas en una forma uniforme."
+  },
+  {
+    "id": 7,
+    "nombre": "Prensa Hidráulica",
+    "img1": "../img/experimentos-img/PrensaHidraulica1.jpeg",
+    "eslogan": "",
+    "descripcion": "Se conocerá acerca de su funcionalidad mediante una maqueta. Y se dará a conocer el Principio de Pascal."
+  },
+  {
+    "id": 8,
+    "nombre": "Elevador Hidráulico",
+    "img1": "../img/experimentos-img/ElevadorHidraulicodos.jpeg",
+    "eslogan": "",
+    "descripcion": "Elevador hidráulico casero, el cuál tiene el funcionamiento de levantarse y recogerse con tan solo jeringas y agua mediante el principio de Pascal, convirtiéndolo así en movimientos hidráulicos, incluye un sistema de alarma a su alrededor para prevenir a las personas que estén cerca cuando el elevador este en funcionamiento"
+  },
+  {
+    "id": 9,
+    "nombre": "Sensor Fotoeléctrico",
+    "img1": "../img/experimentos-img/SensorFotoeléctrico1.jpeg",
+    "eslogan": "",
+    "descripcion": "Sabías que?... Los sensores Fotoeléctricos requieren de un componente emisor que genere la luz y un componente receptor que percibe a la luz generada por el emisor(haciendo que esto cuando llegue la oscuridad se encienda automáticamente y al llegar la luz del día se apague del mismo modo), además estos son utilizados en algunos hogares o alumbrados eléctricos, etc."
+  },
+  {
+    "id": 10,
+    "nombre": "Lampara de lava casera",
+    "img1": "../img/experimentos-img/Lamparalava1.jpeg",
+    "eslogan": "",
+    "descripcion": "Una lámpara de lava es un recipiente lleno de agua con aceite en el puedes ver burbujas suben y bajan que en función del color, pueden lava volcánica. Son objetivos que permite que emiten una luz relajante y queda muy bien en cualquier dormitorio"
+  },
+  {
+    "id": 11,
+    "nombre": "Amplificador de audio",
+    "img1": "../img/experimentos-img/Amplificador1.jpeg",
+    "eslogan": "",
+    "descripcion": "consta de un transitor tipo NPN, una resistencia, un condensador electrolítico que para que funcione de debe conectar la pata positiva del transistor a la pata positiva del transitor a la pata positiva de la resistencia y a la misma pata el condensador electrolítico, y a la otra pata de la resistencia van conectados todas las entradas positivas de energía tanto como la de audio y a la otra lata negativa del transistor van conectadas todas las entradas negativas como se puede apreciar en la imagen."
+  },
+  {
+    "id": 12,
+    "nombre": "Circuito Eléctrico",
+    "img1": "../img/experimentos-img/CircuitoElectrico1.jpeg",
+    "eslogan": "",
+    "descripcion": "son un conjunto de componentes que se encuentran interconectados entre sí formando como mínimo un camino cerrado por el cual puede circular el flujo de corriente. Dicho circuito puede estar conformado por diferentes tipos de elementos como fuentes, interruptores, condensadores, bobinas, diodos, motores, etc."
+  },
+  {
+    "id": 13,
+    "nombre": "Grúa hidráulica",
+    "img1": "../img/experimentos-img/Gruahidraulica1.jpeg",
+    "eslogan": "",
+    "descripcion": "Una grúa es una máquina destinada a subir y destruir cargas en el espacio suspendida de un gancho, la grúa es una de la primera máquina que existieron en el mundo, existe mucho tipo de grúa diferente y cada adaptada un propósito específico."
+  },
+  {
+    "id": 14,
+    "nombre": "Lampara de Lava",
+    "img1": "../img/experimentos-img/LamparaLava3.jpeg",
+    "eslogan": "",
+    "descripcion": "Pueden parecer lava volcánica. Son objetos que emiten una luz relajante y quedan muy bien en cualquier dormitorio, en donde puedes tener un espacio lindo y lleno de luz y color, te esperamos para que puedas conocer un poco más sobre este bello experimento."
+  },
+  {
+    "id": 15,
+    "nombre": "Ascensor hidráulico",
+    "img1": "../img/experimentos-img/AscensorHidraulico1.jpeg",
+    "eslogan": "",
+    "descripcion": "En la actualidad, los ascensores hidráulicos son aquellos en los que la subida se logra por medio de la inyección de aceite a presión a través de un grupo de válvulas, desde un depósito hasta el pistón, que está compuesto por un cilindro y un émbolo que se encarga de sostener la cabina."
+  }
+]

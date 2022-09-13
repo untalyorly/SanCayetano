@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "nombre": "Don Cayetano",
+    "img1": "../img/emprendimientos-img/HeladosDonCayetano1.jpeg",
+    "eslogan": "Helado cremoso de maracuya",
+    "descripcion": "Nuestro helado cremoso de maracuya Don Cayetano, también llamado Chinola o fruta de la pasión, su sabor es agridulce aromático similar a la piña. Si quiere refrescar y disgutar tu paladar. Te esperamos ven y disfruta."
+  },
+  {
+    "id": 2,
+    "nombre": "Vazacha",
+    "img1": "../img/emprendimientos-img/Vazacha1.jpeg",
+    "eslogan": "Cup Cake",
+    "descripcion": "La Felicidad se hornea. Ofrecemos cupcakes relleno de manjar y con glor de diferentes sabores y colores. Haz de tú paladar un mundo de mezcla."
+  },
+  {
+    "id": 3,
+    "nombre": "Dulce Delicia",
+    "img1": "../img/emprendimientos-img/DulceDelicia1.jpeg",
+    "eslogan": "Frutitas de mazapan",
+    "descripcion": "Ofrecemos nuestras ricas y deliciosas frutitas con su sabor a leche condensada. Te invitamos, ven y disfruta de nuestros productos."
+  },
+  {
+    "id": 4,
+    "nombre": "Yogurt Natural",
+    "img1": "../img/emprendimientos-img/YogurtNatural1.jpeg",
+    "eslogan": "Sano y nutritivo",
+    "descripcion": "Te ofrecemos un delicioso yogurt natural,que aporta con varios beneficios para tu salud. Contiene ricos trocitos de fresa ,para que vengas y disfrutes nuestro delicioso yogurt natural con frutas."
+  },
+  {
+    "id": 5,
+    "nombre": "Galletas Artvena",
+    "img1": "../img/emprendimientos-img/GalletasArtvena1.jpeg",
+    "eslogan": "Con la tradición y sabor de abuela",
+    "descripcion": "Ofrecemos Galletas con chispas de chocolate con ingredientes lo más posiblemente artesanales. También ofrecerles una atención agradable para los clientes. Te esperamos ¡Ven pruebalas!"
+  },
+  {
+    "id": 6,
+    "nombre": "Dely Colors",
+    "img1": "../img/emprendimientos-img/DelyColors1.jpeg",
+    "eslogan": "Inténtalo solo tu eres capaz",
+    "descripcion": "Ofrecemos gelatinas de varios sabores junto con leche, creando las maravillosas gelatinas Mosaico, son bajas en calorías y tienen colágeno. Las ofrecemos con aderezos de fresas, leche en polvo, leche condensada para enriquecer tu paladar ven a probarlas."
+  },
+  {
+    "id": 7,
+    "nombre": "Frozen Flavors",
+    "img1": "../img/emprendimientos-img/FrozenFlavors1.jpeg",
+    "eslogan": "Helados de paila",
+    "descripcion": "El helado de paila es una cremosa jalea natural, con un intenso sabor a fruta. Se prepara con una variedad de diferentes sabores de frutas aromáticas, elaborado a mano en enorme cuenco de bronce."
+  },
+  {
+    "id": 8,
+    "nombre": "Clean face",
+    "img1": "../img/emprendimientos-img/Cleanface1.jpeg",
+    "eslogan": "Jabones de glicerina",
+    "descripcion": "Para una piel tersa y juvenil con máxima hidratación. Es un jabón cuya base está constituida de glicerina, colorantes y aromatizantes que le proporcionan un color y olor natural. Es un jabón recomendado para usarlo sobre las pieles grasas para eliminar el acné, espinillas y granos del rostro."
+  },
+  {
+    "id": 9,
+    "nombre": "Mentol JA",
+    "img1": "../img/emprendimientos-img/MentolJA1.jpeg",
+    "eslogan": "Mentol artesanal",
+    "descripcion": "Un excelente producto que se realizó, un producto con muchos beneficios extraordinario para la población, con un aromatizante genial."
+  },
+  {
+    "id": 10,
+    "nombre": "La Maracuyita",
+    "img1": "../img/emprendimientos-img/LaMaracuyita1.jpeg",
+    "eslogan": "Cheesecake de Mayaracuya ",
+    "descripcion": "Les ofrecemos los cheesecake de maracuya con una variedad de sabor, agria y dulcial al mismo tiempo un saboy unico viscoso lleno con pedasitos de gallesta, con un alto conenido de dulcey y sabor magico. Ven disguta mi produccto un postre con maracuya, crema de vainilla y al final unas flan  en pequenas dimenciones galletas te invito a probar mi producto ven disguta esa variedad de sabores magicos."
+  },
+  {
+    "id": 11,
+    "nombre": "Torta de Choclo y de Yuca",
+    "img1": "../img/emprendimientos-img/TortaChoclo1.jpeg",
+    "eslogan": "Mis Delicias Manabitas",
+    "descripcion": "Atrévete a degustar de nuestras delicias gastronómicas. Ofrecemos la torta de Choclo rellena con pedasos de queso,  con un sabor muy especial y para más variedad tenemos las tortas de Yuca con su sabor dulce único, rellena con pedasos de queso complementando con la pasa, un aperitivo muy nutritivo. Te invitamos, ven y disfruta de  nuestros productos."
+  },
+  {
+    "id": 12,
+    "nombre": "Cayetano Delicacy",
+    "img1": "../img/emprendimientos-img/Delicacy1.jpeg",
+    "eslogan": "Manjar Artesanal",
+    "descripcion": "El dulce de leche, también conocido como manjar, manjar de leche o cajeta, es un producto lácteo producido por la cocción de leche con azúcar, canela, huevo, harina, esencia de vainilla"
+  },
+  {
+    "id": 13,
+    "nombre": "Damiger",
+    "img1": "../img/emprendimientos-img/Damiger1.jpeg",
+    "eslogan": "Yogurt Artesanal",
+    "descripcion": "El coco posee alto contenido en fibra, lo que confiere al coco propiedades laxantes, ayudando a reducir y bajar el alto contenido de colesterol y azúcar en la sangre."
+  },
+  {
+    "id": 14,
+    "nombre": "Dulces Caseros",
+    "img1": "../img/emprendimientos-img/DulcesCaseros1.jpeg",
+    "eslogan": "Dulces Caseros",
+    "descripcion": "Pasion casera lo que a ti inspira atrevete a difruta nuestros dulces caseros que ofrece Huevo Moyo, Suspiro, Galleta de harina, Galleta de almidon. Te invitamos .Ven a disfruta de nuestros productos."
+  },
+  {
+    "id": 15,
+    "nombre": "Forti Avena",
+    "img1": "../img/emprendimientos-img/FortiAvena1.jpeg",
+    "eslogan": "Bebida de avena Colombiana",
+    "descripcion": "Si puedes soñarlo, puedes hacerlo. Ofrecemos avena Colombiana innovando nuevos sabores, es fuente de vitaminas del complejo B, aportando del 19% al 29% del valor referencia de nutrientes. A esta mezcla se pueden añadir frutos secos, o frescas como la fresa, ven a probarlas."
+  },
+  {
+    "id": 16,
+    "nombre": "Natura kiss",
+    "img1": "../img/emprendimientos-img/Naturakiss1.jpeg",
+    "eslogan": "Jabones caseros",
+    "descripcion": "Natura kiss promueve el cuidado e higiene personal de las manos, creados para llevarlos siempre contigo este magnífico producto esta elaborado con basar para jabones (Glicerina ), fragancias, y colorante para  dar un color y un olor agradable al consumidor. Te invitamos a conocer un poco mas de njestro producto."
+  },
+  {
+    "id": 17,
+    "nombre": "Banana Cake",
+    "img1": "../img/emprendimientos-img/BananaCake1.jpeg",
+    "eslogan": "Postre",
+    "descripcion": "Éste delicioso postre aporta una buena cantidad de energía y fibra .Anímate a darte el gusto sin culpa , atrévete a probarlos."
+  }
+]

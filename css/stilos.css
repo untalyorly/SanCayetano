@@ -1,0 +1,56 @@
+body {
+  font-family: "Dosis", sans-serif;
+}
+.nav-link {
+  position: relative;
+  font-size: larger;
+  font-weight: 500;
+}
+.nav-link::after {
+  content: "";
+  background: #ea715b;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  height: 3px;
+  transition: width 0.5s;
+}
+.nav-link.active::after,
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.card {
+  transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),
+    0.3s box-shadow,
+    0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+
+.naranja {
+  font-weight: 600;
+  color: #ea715b;
+}
+.otrocolor {
+  color: #525252;
+}
+.aa {
+  text-decoration: none;
+}
+.aa:hover {
+  color: #525252;
+}
+p {
+  font-weight: 400;
+  color: #737373;
+  font-size: larger;
+}
